@@ -38,11 +38,11 @@ The dashboard includes:
 ```
 T20-Cricket-Analytics/
 │
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for data cleaning & EDA
-├── dashboard/ # Power BI files
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+├── data/                   # Raw and processed datasets
+├── notebooks/              # Jupyter notebooks for data cleaning & EDA
+├── dashboard/              # Power BI files
+├── README.md               # Project documentation
+└── requirements.txt        # Python dependencies
 ```
 ---
 
