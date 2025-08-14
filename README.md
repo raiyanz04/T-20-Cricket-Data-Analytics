@@ -28,8 +28,6 @@ The project demonstrates **web scraping**, **data cleaning**, **transformation**
 
 ## 📊 Dashboard Preview  
 
-*(Insert screenshot here)*  
-
 The dashboard includes:  
 - **Player Stats**: Runs, Strike Rate, Average, Wickets, Economy Rate, etc.  
 - **Team Analysis**: Comparative performance metrics between teams.  
